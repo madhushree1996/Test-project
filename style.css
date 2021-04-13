@@ -45,12 +45,6 @@ body,html{
 .btn:hover.container{
     display: initial;
 }
-/* .category{
-    margin-left:20% ;
-    font-family: 'Roboto', sans-serif;
-    font-weight: 900;
-    font-size:medium ;
-} */
 .display-box{
     background-color: rgb(0, 89, 255) ;
     height: 31%;
@@ -84,7 +78,3 @@ body,html{
     bottom: 0;
     bottom: 4.85rem; 
     }
-.box{
-display: grid;
-grid-template-rows: auto auto auto auto;
-}
